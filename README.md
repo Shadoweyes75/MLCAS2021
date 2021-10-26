@@ -15,7 +15,7 @@ model_ista429.py -> This builds multiple Decision Tree Regressors for each day o
 model_tree.ipynb -> This file is a jupyter notebook that also runs the model but in a more visual way. <br><br>
 prediction_over_time.npy -> This file is our prediction made with the model stored a npy array (10337,) <br><br>
 
-## model 
+## Model 
 For our model we went with a Decision Tree Regressors that built a tree of possible outcomes for a given input and used this to make a prediction, we then built a Decision Tree Regressor for each day in the data and made a prediction for each input based on the given condition for that day, finally took the mean of all the prediction to get one prediction over the 214 days for each entry.
 
 ## To run
