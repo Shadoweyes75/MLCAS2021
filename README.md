@@ -1,6 +1,12 @@
 # MLCAS2021
-This repo will be our submission to the MLCAS2021 Dataset_Competition
+This repo contains Team Data's submission for the MLCAS 2021 Crop Yield Prediction Challenge.
 
+## Contributors
+ - Austin Connick
+ - Luis Flores Lozano
+ - Travis Myers
+ - Raul Manquero-Ochoa
+ - Cesar Perez
 
 ## For each file in the repository 
 data_graphs.ipynb -> This File is a Jupiter notebook that is use to make graphs of the data to help understand what are the most important sections <br><br>
@@ -18,5 +24,10 @@ and then run the model_ista429.py file, the program was tested with python 3.8.5
 ## Competition
 Competition link -> https://eval.ai/web/challenges/challenge-page/1251/overview
 
-
+## Acknowledgements 
+Big thank you to our TA Emmanuel Gonzalez, for meeting with us and being extremely patient with our questions.
+Thank you to the other teams in ISTA 429 we gained a lot of knowledge by looking at their code:
+Team Mirical Grow - https://github.com/DerekColombo/ISTA_429_Midterm_Miracle_Grow
+Team Cyber Crop-Bots - https://github.com/abhi-386/ACIC_2021_Midterm
+Team X - https://github.com/jake-newton/X429midterm
 
