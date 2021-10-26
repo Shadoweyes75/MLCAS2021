@@ -25,9 +25,9 @@ and then run the model_ista429.py file, the program was tested with python 3.8.5
 Competition link -> https://eval.ai/web/challenges/challenge-page/1251/overview
 
 ## Acknowledgements 
-Big thank you to our TA Emmanuel Gonzalez, for meeting with us and being extremely patient with our questions.
-Thank you to the other teams in ISTA 429 we gained a lot of knowledge by looking at their code:
-Team Mirical Grow - https://github.com/DerekColombo/ISTA_429_Midterm_Miracle_Grow
-Team Cyber Crop-Bots - https://github.com/abhi-386/ACIC_2021_Midterm
-Team X - https://github.com/jake-newton/X429midterm
+Big thank you to our TA Emmanuel Gonzalez, for meeting with us and being extremely patient with our questions.<br><br>
+Thank you to the other teams in ISTA 429 we gained a lot of knowledge by looking at their code:<br><br>
+Team Mirical Grow - https://github.com/DerekColombo/ISTA_429_Midterm_Miracle_Grow<br><br>
+Team Cyber Crop-Bots - https://github.com/abhi-386/ACIC_2021_Midterm<br><br>
+Team X - https://github.com/jake-newton/X429midterm<br><br>
 
